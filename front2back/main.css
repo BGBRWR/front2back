@@ -1,0 +1,17 @@
+body {
+    color: white;
+    background: blue;
+}
+
+.green {
+    background: green;
+}
+
+.display {
+    background: white;
+    color: black;
+}
+
+.orange {
+    background: orange;
+}
